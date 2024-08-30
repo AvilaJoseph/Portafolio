@@ -549,8 +549,8 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-12">
                         <div class="section-title text-center mb-60 wow fadeInUp delay-0-2s">
-                            <span class="sub-title mb-15">Latest Works</span>
-                            <h2>Explore My Popular <span>Projects</span></h2>
+                            <span class="sub-title mb-15">Ultimos Trabajos</span>
+                            <h2>Explora Mis <span>Proyectos Populares</span></h2>
                         </div>
                     </div>
                 </div>
@@ -615,7 +615,7 @@
                     </div>
                 </div>
                 <div class="project-btn text-center wow fadeInUp delay-0-2s">
-                    <a href="projects.html" class="theme-btn">View More Projects <i class="far fa-angle-right"></i></a>
+                    <a href="projects.html" class="theme-btn">Ver Más Proyectos <i class="far fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="bg-lines">
@@ -815,7 +815,7 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <label for="name">Full Name</label>
+                                            <label for="name">Nombre Completo</label>
                                             <input type="text" id="name" name="name" class="form-control" value="" placeholder="Richard D. Hammond" required data-error="Please enter your Name">
                                             <label for="name" class="for-icon"><i class="far fa-user"></i></label>
                                             <div class="help-block with-errors"></div>
@@ -854,7 +854,7 @@
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group mb-0">
-                                            <button type="submit" class="theme-btn">Send Us Message <i class="far fa-angle-right"></i></button>
+                                            <button type="submit" class="theme-btn">Envianos un Mensaje <i class="far fa-angle-right"></i></button>
                                             <div id="msgSubmit" class="hidden"></div>
                                         </div>
                                     </div>
@@ -1024,15 +1024,15 @@
                         </div>
                         <div class="col-lg-3 col-md-5">
                             <div class="footer-widget widget_contact_info wow fadeInUp delay-0-6s">
-                                <h6 class="footer-title">Address</h6>
+                                <h6 class="footer-title">Dirección</h6>
                                 <ul>
-                                    <li><i class="far fa-map-marker-alt"></i> 55 Main Street, 2nd block, New York City</li>
-                                    <li><i class="far fa-envelope"></i> <a href="mailto:support@gmail.com">support@gmail.com</a></li>
-                                    <li><i class="far fa-phone"></i> <a href="callto:+880(123)45688">+880 (123) 456 88</a></li>
+                                    <li><i class="far fa-map-marker-alt"></i>Cra. 54 #68 – 80, Nte. Centro Historico, Barranquilla</li>
+                                    <li><i class="far fa-envelope"></i> <a href="mailto:support@gmail.com">avilajoseph2021@gmail.com</a></li>
+                                    <li><i class="far fa-phone"></i> <a href="callto:+880(123)45688">311 759 7105</a></li>
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                    </div>  
                 </div>
             </div>
             <div class="footer-bottom pt-20 pb-5 rpt-25">
