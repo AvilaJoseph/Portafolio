@@ -58,7 +58,7 @@ body {
   font-family: "Inter", sans-serif;
   --base-color: rgba(255, 255, 255, 0.65);
   --heading-color: #FFFFFF;
-  --primary-color: #535def;
+  --primary-color:#8f5dec;
   --lighter-color: #1F1F1F;
   --black-color: #070707;
   --border-color: rgba(255, 255, 255, 0.1); }

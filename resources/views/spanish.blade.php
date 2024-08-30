@@ -174,7 +174,7 @@
                         <div class="hero-content rmb-55 wow fadeInUp delay-0-2s">
                             <span class="h2">Hola, Soy </span>
                             <h1><b>Joseph Avila</b> Desarollador de Software</h1>
-                            <p>We denounce with righteous indignation dislike demoralized by the charms of pleasure</p>
+                            <p>Programador entusiasta en desarrollar soluciones digitales innovadoras y efectivas. Trabajo para transformar tus ideas en aplicaciones prácticas y a medida, diseñadas para satisfacer tus necesidades específicas.</p>
                             {{-- <div class="hero-btns">
                                 <a href="contact.html" class="theme-btn">Hire Me <i class="far fa-angle-right"></i></a>
                                 <a href="contact.html" class="read-more">Download Resume <i class="far fa-angle-right"></i></a>
@@ -184,16 +184,16 @@
                     <div class="col-lg-3 col-sm-5 order-lg-3">
                         <div class="hero-counter-wrap ms-lg-auto rmb-55 wow fadeInUp delay-0-4s">
                             <div class="counter-item counter-text-wrap">
-                                <span class="count-text plus" data-speed="3000" data-stop="13">0</span>
-                                <span class="counter-title">Years Of Experience</span>
+                                <span class="count-text plus" data-speed="100" data-stop="2">0</span>
+                                <span class="counter-title">Años de Experiencia</span>
                             </div>
                             <div class="counter-item counter-text-wrap">
-                                <span class="count-text k-plus" data-speed="3000" data-stop="8">0</span>
-                                <span class="counter-title">Project Complete</span>
+                                <span class="count-text plus" data-speed="500" data-stop="10">0</span>
+                                <span class="counter-title">Proyectos Completados</span>
                             </div>
                             <div class="counter-item counter-text-wrap">
-                                <span class="count-text percent" data-speed="3000" data-stop="99">0</span>
-                                <span class="counter-title">Client Satisfactions</span>
+                                <span class="count-text percent" data-speed="3000" data-stop="98">0</span>
+                                <span class="counter-title">Clientes Satisfechos</span>
                             </div>
                         </div>
                     </div>
@@ -227,29 +227,29 @@
                         <div class="col-lg-7">
                             <div class="about-content-part rel z-2 rmb-55">
                                 <div class="section-title mb-35 wow fadeInUp delay-0-2s">
-                                    <span class="sub-title mb-15">About Me</span>
-                                    <h2>Professional <span>Problem Solutions</span> For Digital Products</h2>
-                                    <p>At vero eos et accusamus etodio dignissimos ducimus praesentium voluptatum corrupti quos dolores quas molestias excepturi sint occaecati cupiditate provident qui officia deserunt mollitia animi, id est laborum et dolorum</p>
+                                    <span class="sub-title mb-15">Sobre Mí</span>
+                                    <h2>Soluciones <span>Profesionales</span> para Productos Digitales</h2>
+                                    <p>Ofrezco soluciones efectivas y personalizadas para abordar desafíos en el ámbito digital. Mi enfoque se centra en resolver problemas con integridad y profesionalismo, garantizando resultados que superen tus expectativas</p>
                                 </div>
                                 <ul class="list-style-one two-column wow fadeInUp delay-0-2s">
-                                    <li>Branding & Design</li>
-                                    <li>Digital Marketing</li>
-                                    <li>Web Development</li>
-                                    <li>Product Design</li>
+                                    <li>Desarrollo Web</li>
+                                    <li>Desarrollo de Aplicaciones Móviles</li>
+                                    <li>Desarrollo de Software a Medida</li>
+                                    <li>Gestión de Proyectos Tecnológicos</li>
                                 </ul>
                                 <div class="about-info-box mt-25 wow fadeInUp delay-0-2s">
                                     <div class="info-box-item">
                                         <i class="far fa-envelope"></i>
                                         <div class="content">
-                                            <span>Email Us</span><br>
-                                            <a href="mailto:support@gmail.com">support@gmail.com</a>
+                                            <span>Envíanos un Email</span><br>
+                                            <a href="mailto:support@gmail.com">avilajoseph@gmail.com</a>
                                         </div>
                                     </div>
                                     <div class="info-box-item">
                                         <i class="far fa-phone"></i>
                                         <div class="content">
-                                            <span>Make A Call</span><br>
-                                            <a href="callto:+000(123)45688">+880 (123) 456 88</a>
+                                            <span>Haz una Llamada</span><br>
+                                            <a href="callto:+000(123)45688">311 759 7105</a>
                                         </div>
                                     </div>
                                 </div>
@@ -300,8 +300,8 @@
                         <div class="row">
                             <div class="col-xl-8 col-lg-9">
                                 <div class="section-title mb-60 wow fadeInUp delay-0-2s">
-                                    <span class="sub-title mb-15">My Resume</span>
-                                    <h2>Real <span>Problem Solutions</span> Experience</h2>
+                                    <span class="sub-title mb-15">Mi Currículum</span>
+                                    <h2>Experiencia en <span>Desarrollo de Soluciones </span>Efectivas</h2>
                                 </div>
                             </div>
                         </div>
@@ -313,9 +313,10 @@
                                             <i class="far fa-arrow-right"></i>
                                         </div>
                                         <div class="content">
-                                            <span class="years">2021 - Present</span>
-                                            <h4>Lead Product Designer</h4>
-                                            <span class="company">Google</span>
+                                            <span class="years">2021 - 2022</span>
+                                            <h4>Desarrollador de Software</h4>
+                                            <span class="company">SERVICIOS Y ASESORIAS
+                                                CONSTRUMEGA CO SAS</span>
                                         </div>
                                     </div>
                                 </div>
@@ -325,9 +326,9 @@
                                             <i class="far fa-arrow-right"></i>
                                         </div>
                                         <div class="content">
-                                            <span class="years">2016 - 2018</span>
-                                            <h4>Junior UX/UI Designer</h4>
-                                            <span class="company">LinkedIn</span>
+                                            <span class="years">2023</span>
+                                            <h4>Desarrollador de Software</h4>
+                                            <span class="company">ARECONSULTORIA SAS</span>
                                         </div>
                                     </div>
                                 </div>
@@ -337,9 +338,9 @@
                                             <i class="far fa-arrow-right"></i>
                                         </div>
                                         <div class="content">
-                                            <span class="years">2018 - 2021</span>
-                                            <h4>Senior Product Designer</h4>
-                                            <span class="company">Webflow</span>
+                                            <span class="years">2023 - 2024</span>
+                                            <h4>Desarrollador de Software</h4>
+                                            <span class="company">TPDINDUSTRIAL SAS</span>
                                         </div>
                                     </div>
                                 </div>
@@ -349,9 +350,9 @@
                                             <i class="far fa-arrow-right"></i>
                                         </div>
                                         <div class="content">
-                                            <span class="years">2014 - 2016</span>
-                                            <h4>Graphics Designer</h4>
-                                            <span class="company">Apple</span>
+                                            <span class="years">2024 - Actualmente</span>
+                                            <h4>Desarrollador de Software</h4>
+                                            <span class="company">SENA TECNOPARQUE ATLANTICO</span>
                                         </div>
                                     </div>
                                 </div>
@@ -636,9 +637,9 @@
                         <div class="col-lg-4">
                             <div class="testimonials-content-part rel z-2 rmb-55 wow fadeInUp delay-0-2s">
                                 <div class="section-title mb-40">
-                                    <span class="sub-title mb-15">Clients Testimonials</span>
-                                    <h2>I’ve 1253+ Clients <span>Feedback</span></h2>
-                                    <p>Sed ut perspiciatis unde omnin natus totam rem aperiam eaque inventore veritatis</p>
+                                    <span class="sub-title mb-15">Testimonios</span>
+                                    <h2>Testimonios de <span>Clientes</span></h2>
+                                    <p>He recibido comentarios de más de 1253 clientes satisfechos, quienes han destacado la calidad y efectividad de mis soluciones de software. Aquí hay algunos casos de lo que dicen:</p>
                                 </div>
                                 <div class="slider-arrows">
                                     <button class="testimonial-prev"><i class="fal fa-arrow-left"></i></button>
@@ -796,15 +797,15 @@
                     <div class="col-lg-4">
                         <div class="contact-content-part pt-5 rpt-0 rmb-55 wow fadeInUp delay-0-2s">
                             <div class="section-title mb-40">
-                                <span class="sub-title mb-15">Get In Touch</span>
-                                <h2>Let’s Talk For your <span>Next Projects</span></h2>
-                                <p>Sed ut perspiciatis unde omnin natus totam rem aperiam eaque inventore veritatis</p>
+                                <span class="sub-title mb-15">Ponte en Contacto</span>
+                                <h2>Hablemos sobre tus <span>próximos proyectos</span></h2>
+                                <p>Estoy aquí para ayudarte a convertir tus ideas en realidad con soluciones a medida. No dudes en contactarme para discutir cómo podemos trabajar juntos para alcanzar tus objetivos.</p>
                             </div>
                             <ul class="list-style-two">
-                                <li>5+ Years Of Experience</li>
-                                <li>Professional Web Designer</li>
-                                <li>Mobile Apps Design</li>
-                                <li>Custom Design Support</li>
+                                <li>2+ Años de Experiencia</li>
+                                <li>Desarrollador Web Profesional</li>
+                                <li>Desarrollador de Aplicaciones Móviles</li>
+                                <li>Soporte para Diseño Personalizado</li>
                             </ul>
                         </div>
                     </div>
