@@ -125,7 +125,6 @@
             <!--End Header Upper-->
         </header>
        
-       
         <!--Form Back Drop-->
         <div class="form-back-drop"></div>
         
@@ -473,56 +472,56 @@
                                     <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                         <div class="skill-item wow fadeInUp delay-0-2s">
                                             <img src="{{asset('/images/skills/skill1.png')}}" alt="Skill">
-                                            <h5>Figma</h5>
+                                            <h5>PHP</h5>
                                             <span class="percent">95%</span>
                                         </div>
                                     </div>
                                     <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                         <div class="skill-item wow fadeInUp delay-0-3s">
                                             <img src="{{asset('/images/skills/skill2.png')}}" alt="Skill">
-                                            <h5>Framer</h5>
-                                            <span class="percent">83</span>
+                                            <h5>Laravel</h5>
+                                            <span class="percent">83%</span>
                                         </div>
                                     </div>
                                     <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                         <div class="skill-item wow fadeInUp delay-0-4s">
                                             <img src="{{asset('/images/skills/skill3.png')}}" alt="Skill">
-                                            <h5>Figma</h5>
+                                            <h5>Java</h5>
                                             <span class="percent">93%</span>
                                         </div>
                                     </div>
                                     <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                         <div class="skill-item wow fadeInUp delay-0-5s">
                                             <img src="{{asset('/images/skills/skill4.png')}}" alt="Skill">
-                                            <h5>Wordpress</h5>
+                                            <h5>MySQL</h5>
                                             <span class="percent">84%</span>
                                         </div>
                                     </div>
                                     <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                         <div class="skill-item wow fadeInUp delay-0-2s">
                                             <img src="{{asset('/images/skills/skill5.png')}}" alt="Skill">
-                                            <h5>Figma</h5>
+                                            <h5>React</h5>
                                             <span class="percent">65%</span>
                                         </div>
                                     </div>
                                     <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                         <div class="skill-item wow fadeInUp delay-0-3s">
                                             <img src="{{asset('/images/skills/skill6.png')}}" alt="Skill">
-                                            <h5>Webflow</h5>
+                                            <h5>JavaScript</h5>
                                             <span class="percent">86%</span>
                                         </div>
                                     </div>
                                     <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                         <div class="skill-item wow fadeInUp delay-0-4s">
                                             <img src="{{asset('/images/skills/skill7.png')}}" alt="Skill">
-                                            <h5>Figma</h5>
+                                            <h5>Python</h5>
                                             <span class="percent">62%</span>
                                         </div>
                                     </div>
                                     <div class="col-xl-3 col-lg-4 col-md-3 col-sm-4 col-6">
                                         <div class="skill-item wow fadeInUp delay-0-5s">
                                             <img src="{{asset('/images/skills/skill8.png')}}" alt="Skill">
-                                            <h5>Sketch</h5>
+                                            <h5>Flutter</h5>
                                             <span class="percent">94%</span>
                                         </div>
                                     </div>
