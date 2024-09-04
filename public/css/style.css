@@ -6699,3 +6699,14 @@ blockquote {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center; } }
+
+    .contact-item {
+      display: flex;
+      align-items: center;
+    }
+    
+    .contact-icon {
+      margin-right: 5px;
+      width: 20px;
+      height: 20px;
+    }

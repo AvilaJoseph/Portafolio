@@ -103,6 +103,17 @@
                                             </ul> --}}
                                         </li>
                                         <li><a href="contact.html">Contact</a></li>
+                                        <li class="dropdown">
+                                            <a href="#">
+                                              <img src="{{ asset('images/icons/colombia.png') }}" alt="Descripción de la imagen" />
+                                            </a>
+                                            <ul>
+                                              <li>
+                                                <a href="{{ route('ingles') }}">Inglés</a>
+                                                <img src="{{ asset('images/icons/uk.png') }}" alt="Descripción de la imagen" />
+                                              </li>
+                                            </ul>
+                                          </li>
                                     </ul>
                                 </div>
 
@@ -823,7 +834,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <label for="email">Email Address</label>
+                                            <label for="email">Email</label>
                                             <input type="email" id="email" name="email" class="form-control" value="" placeholder="support@gmail.com" required data-error="Please enter your Email">
                                             <label for="email" class="for-icon"><i class="far fa-envelope"></i></label>
                                             <div class="help-block with-errors"></div>
@@ -831,7 +842,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <label for="phone_number">Phone Number</label>
+                                            <label for="phone_number">Numero de Telefono</label>
                                             <input type="text" id="phone_number" name="phone_number" class="form-control" value="" placeholder="+880 (123) 456 88" required data-error="Please enter your Phone Number">
                                             <label for="phone_number" class="for-icon"><i class="far fa-phone"></i></label>
                                             <div class="help-block with-errors"></div>
@@ -839,7 +850,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <label for="subject">Subject</label>
+                                            <label for="subject">Requerimiento</label>
                                             <input type="text" id="subject" name="subject" class="form-control" value="" placeholder="Subject" required data-error="Please enter your Subject">
                                             <label for="subject" class="for-icon"><i class="far fa-text"></i></label>
                                             <div class="help-block with-errors"></div>
@@ -847,7 +858,7 @@
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group">
-                                            <label for="message">Message</label>
+                                            <label for="message">Mensaje</label>
                                             <textarea name="message" id="message" class="form-control" rows="4" placeholder="write message" required data-error="Please enter your Message"></textarea>
                                             <div class="help-block with-errors"></div>
                                         </div>
@@ -1029,6 +1040,10 @@
                                     <li><i class="far fa-map-marker-alt"></i>Cra. 54 #68 – 80, Nte. Centro Historico, Barranquilla</li>
                                     <li><i class="far fa-envelope"></i> <a href="mailto:support@gmail.com">avilajoseph2021@gmail.com</a></li>
                                     <li><i class="far fa-phone"></i> <a href="callto:+880(123)45688">311 759 7105</a></li>
+                                    <li>
+                                        <img src="{{ asset('images/icons/colombia.png') }}" alt="Descripción de la imagen" style="margin-right: 15px;" />
+                                        <img src="{{ asset('images/icons/uk.png') }}" alt="Descripción de la imagen" />
+                                    </li>
                                 </ul>
                             </div>
                         </div>
